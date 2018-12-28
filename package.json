@@ -1,0 +1,19 @@
+{
+  "name": "writemore-app",
+  "version": "1.0.0",
+  "description": "Freelance management app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gitch047/writemore-app.git"
+  },
+  "author": "Gicharu Mathigu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gitch047/writemore-app/issues"
+  },
+  "homepage": "https://github.com/Gitch047/writemore-app#readme"
+}
